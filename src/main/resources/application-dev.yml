@@ -1,0 +1,12 @@
+spring:
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: sportifyapplication2024@gmail.com
+    password: "lrbi wjdm tyrc xwpr"
+    properties:
+      mail:
+        smtp:
+          auth: false
+          starttls:
+            enable: true
