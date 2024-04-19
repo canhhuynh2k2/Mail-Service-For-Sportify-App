@@ -1,0 +1,9 @@
+vn\edu\ptit\mobile\mailservice\util\message\MessageUtil.class
+vn\edu\ptit\mobile\mailservice\service\impl\MailServiceImpl.class
+vn\edu\ptit\mobile\mailservice\util\message\MessageBean.class
+vn\edu\ptit\mobile\mailservice\service\MailService.class
+vn\edu\ptit\mobile\mailservice\config\MailConfig.class
+vn\edu\ptit\mobile\mailservice\util\converter\ConverterUtil.class
+vn\edu\ptit\mobile\mailservice\controller\MailController.class
+vn\edu\ptit\mobile\mailservice\model\MailRequest.class
+vn\edu\ptit\mobile\mailservice\MailserviceApplication.class
